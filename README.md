@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chosoft
+- 👀 I’m interested in learning new tecnologies and create the new things in the world
+- 🌱 I’m currently learning GO
+- 📫 How to reach me creadorcuentasmolina@gmail.com
